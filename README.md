@@ -1,4 +1,5 @@
-- [My notes](#my-notes)
+Tobias Birk Østergaard  
+-[My notes](#my-notes)
   - [Variables](#variables)
   - [Data types, built-ins, int, string, float](#data-types-built-ins-int-string-float)
   - [Operators; +, -, /, *, %, ++, --](#operators----------)
